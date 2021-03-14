@@ -1,5 +1,5 @@
 # NewsApp
 
-This is a news Application using MVVM and room database on android. 
+This is a news Application using MVVM, room database and Retrofit on android.
 
-For News blogs, NEWS API is used.
+Used NEWS API for data : Search worldwide news with code
